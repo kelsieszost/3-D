@@ -2,7 +2,7 @@
 
 ## Description
 
-An interactive sphere built with Vite and three.js. This site was built from a tutorial found on [Youtube](https://www.youtube.com/watch?v=_OwJV2xL8M8).
+An interactive sphere built with Vite and three.js. This app was built from a tutorial found on [Youtube](https://www.youtube.com/watch?v=_OwJV2xL8M8).
 
 ## Usage
 
