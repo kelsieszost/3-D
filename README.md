@@ -1,4 +1,4 @@
-# 3-D
+# 3-D Sphere
 
 ## Description
 
@@ -6,7 +6,7 @@ An interactive sphere built with Vite and three.js. This app was built from a tu
 
 ## Usage
 
-To interact with the sphere you can click and hold to drag and change the perspective of light. You can also double click to move the sphere to any desired location on the page.
+To interact with the sphere you can click and hold to drag and change the perspective of light and color. You can also double click to move the sphere to any desired location on the page.
 
 [Link](https://kelsieszost.github.io/3-D/) to site.
 
