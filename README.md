@@ -8,6 +8,12 @@ An interactive sphere built with Vite and three.js. This app was built from a tu
 
 To interact with the sphere you can click and hold to drag and change the perspective of light. You can also double click to move the sphere to any desired location on the page.
 
+
+
+https://user-images.githubusercontent.com/105300403/215626407-486f6c96-9b17-430b-a870-a0296a767e17.mp4 
+
+
+
 ## Technologies Used
 
 - Vite
